@@ -10,7 +10,7 @@ https://www.linkedin.com/in/jo%C3%A3o-dutra-400a9330/
 - Atribuição e referência em Java
 - Conceito de nó e Encadeamento de nós
 - Generics em Java
-- Refatoração da Classe No (tornando-a para tipos de dados genérica)
+- Refatoração da Classe No (tornando-a genérica)
 - 🚧 Em breve: novos tópicos 🚧
 
 ### Materiais de apoio
