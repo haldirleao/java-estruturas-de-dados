@@ -11,6 +11,8 @@ https://www.linkedin.com/in/jo%C3%A3o-dutra-400a9330/
 - Conceito de nó e Encadeamento de nós
 - Generics em Java
 - Refatoração da Classe No (tornando-a genérica)
+- Pilhas (LIFO: Last In, First Out)
+- Filas (FIFO: First In, First Out)
 - 🚧 Em breve: novos tópicos 🚧
 
 ### Materiais de apoio
