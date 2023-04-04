@@ -36,6 +36,5 @@ public class Main {
         // primeiro da fila
         System.out.println(minhaFila.first());
         System.out.println(minhaFila);
-
     }
 }

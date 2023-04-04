@@ -24,6 +24,10 @@ public class Fila<T> {
         if (!this.isEmpty()) {
             No<T> primeiroNo = refNoEntradaFila;
             No<T> noAuxiliar = refNoEntradaFila;
+            
+            if (refNoEntradaFila.getRefNo() == null)
+                refNoEntradaFila = null;
+
             while (true) {
                 if (primeiroNo.getRefNo() != null) {
                     noAuxiliar = primeiroNo;

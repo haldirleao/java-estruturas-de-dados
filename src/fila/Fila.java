@@ -19,6 +19,10 @@ public class Fila {
         if (!this.isEmpty()) {
             No primeiroNo = refNoEntradaFila;
             No noAuxiliar = refNoEntradaFila;
+
+            if (refNoEntradaFila.getRefNo() == null)
+                refNoEntradaFila = null;
+
             while (true) {
                 if (primeiroNo.getRefNo() != null) {
                     noAuxiliar = primeiroNo;
