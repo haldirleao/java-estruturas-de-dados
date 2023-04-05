@@ -22,7 +22,7 @@ https://www.linkedin.com/in/jo%C3%A3o-dutra-400a9330/
 - https://docs.oracle.com/javase/tutorial/extra/generics/wildcards.html
 - https://docs.oracle.com/javase/tutorial/java/generics/why.html
 - https://www.programiz.com/java-programming/generics
-
+- [Livro: Lógica de programação e estruturas de dados, com aplicações em Java, 3a. edição, 2017. Sandra Puga e Gerson Rissetti. ISBN: 978-85-430-1914-7.](https://www.amazon.com/-/pt/dp/B06Y2CX7XM)
 ---
 haldirleao
 

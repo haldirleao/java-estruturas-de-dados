@@ -11,7 +11,7 @@ public class ListaEncadeada<T> {
 
     public void add(T conteudo) {
         
-        No<T> novoNo = new No(conteudo);
+        No<T> novoNo = new No<>(conteudo);
         
         if (this.isEmpty()) {
             referenciaEntrada = novoNo;
