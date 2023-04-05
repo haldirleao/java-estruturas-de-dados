@@ -13,6 +13,8 @@ https://www.linkedin.com/in/jo%C3%A3o-dutra-400a9330/
 - Refatoração da Classe No (tornando-a genérica)
 - Pilhas (LIFO: Last In, First Out)
 - Filas (FIFO: First In, First Out)
+- Listas encadeadas
+- Listas duplamente encadeadas
 - 🚧 Em breve: novos tópicos 🚧
 
 ### Materiais de apoio

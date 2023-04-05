@@ -1,7 +1,7 @@
 
 // Nós genéricos (O tipo de dado é definido ao instanciar os objetos).
 
-package nogenerico;
+package no_generico;
 
 public class No<T> {
 
