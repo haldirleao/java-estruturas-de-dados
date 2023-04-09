@@ -15,6 +15,8 @@ https://www.linkedin.com/in/jo%C3%A3o-dutra-400a9330/
 - Filas (FIFO: First In, First Out)
 - Listas encadeadas
 - Listas duplamente encadeadas
+- Listas circulares
+- Árvores
 - 🚧 Em breve: novos tópicos 🚧
 
 ### Materiais de apoio
