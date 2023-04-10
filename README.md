@@ -38,4 +38,4 @@ https://www.linkedin.com/in/jo%C3%A3o-dutra-400a9330/
 ---
 haldirleao
 
-Iniciado em 04/abr/2023. Concluído em 10/04/2023.
+Iniciado em 04/abr/2023. Concluído em 10/abr/2023.
