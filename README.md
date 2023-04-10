@@ -17,6 +17,7 @@ https://www.linkedin.com/in/jo%C3%A3o-dutra-400a9330/
 - Listas duplamente encadeadas
 - Listas circulares
 - Árvores
+- Árvores binárias
 - 🚧 Em breve: novos tópicos 🚧
 
 ### Materiais de apoio
